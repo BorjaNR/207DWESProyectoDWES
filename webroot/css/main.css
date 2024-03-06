@@ -1,0 +1,86 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 5 nov 2023, 22:45:09
+    Author     : daw2
+*/
+body {
+        font-family: Verdana;
+        margin: 0;
+        background-image: url(../images/background.jpg);
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: 100%;
+        position: relative;
+        padding-bottom: 5rem;
+    }
+        
+    header {
+        background-color: #3399ff;
+        padding: 20px;
+        width: 100%;
+        font-size: 1rem;
+        color: white;
+        margin-bottom: 50px
+    }
+    footer{
+        position: absolute;
+        bottom: 0;
+        background-color: #3399ff;
+        color: white;
+        width: 100%;height:50px; 
+        padding: 20px;
+        text-align: center;
+        font-size: 1.2rem;
+    }
+    footer a{
+        color: white;
+        text-decoration: none;
+        margin: 10px;
+    }
+    h3{
+        font-size: 1.1rem;
+    }
+    .Caja{
+        display: block;
+        position: relative;
+        left: 25%;
+        top: 30%;
+        margin: 20px;
+        padding: 20px;
+        width: 50%; height: 100%;
+        border: solid 1px grey;
+        border-radius: 6px;
+        background: white;
+    }
+    .Boton{
+        border: 1px solid #3399ff;
+        border-radius: 8px;
+        background: #3399ff;
+        width: 150px; height: 25px;
+        text-align: center;
+        padding: 5px;
+    }
+    .Boton a{
+        text-decoration: none;
+        color: white;
+        font-size: 1.2rem;
+    }
+    .Secciones ul{
+        list-style: none;
+    }
+    .Secciones ul a{
+        display: block;
+        text-decoration: none;
+        color: black;
+        margin-bottom: 5px;
+        width: auto;
+    }
+    .Secciones ul a:hover{
+        text-decoration: underline #3399ff solid;
+    }
+    
+    
+
