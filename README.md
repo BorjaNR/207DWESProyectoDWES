@@ -6,11 +6,11 @@ Borja Nuñez Refoyo
    - [MySQL8.0.35]
    - [PHP8.1]
    - [XDEBUG3.1.2]
-##Descripcion
+## Descripcion
 Documentacion de la asignatura de despliegue de aplicaciones web
-
-##Funcionalidades
-##Entorno de desarrollo
+## Funcionalidades
+Pagina principal del proyecto DWES para redirigir a los temas correspondientes
+## Entorno de desarrollo
 [http://daw207.isauces.local]
-##Entorno de explotacion
+## Entorno de explotacion
 [https://daw207.ieslossauces.es/index.html]
